@@ -1,2 +1,2 @@
 # hello_world
-well  i want ti learn this
+well  i want to learn this
